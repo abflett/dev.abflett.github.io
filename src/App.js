@@ -27,7 +27,7 @@ class Page extends Component {
             <section>
               <p>Your's sincerely,</p>
               <p className="cursive">Adam Flett</p>
-              <a href="https://adamflett.net/adam-flett-web.pdf" className="resume">DOWNLOAD RESUME</a>
+              <a href="adam-flett-web.pdf" className="resume">DOWNLOAD RESUME</a>
             </section>
               
             <section className="social">
